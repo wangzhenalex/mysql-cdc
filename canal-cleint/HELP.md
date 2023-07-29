@@ -43,7 +43,7 @@ canal [kə'næl]，译意为水道/管道/沟渠，主要用途是基于 MySQL �
 
 1、mysql-erver [mac安装mysql](https://zhuanlan.zhihu.com/p/168753680)
 
-![版本](images/mysql-version.jpg)
+  ![版本](images/mysql-version.jpg)
 
 2、开启binlog
 
@@ -70,7 +70,7 @@ server_id=1 # 配置 MySQL replaction 需要定义，不要和 canal 的 slaveId
 show variables like 'log_%';
 ```
 
-![bin_log](images/bin_log.jpg)
+  ![bin_log](images/bin_log.jpg)
 
 3、账号
 
