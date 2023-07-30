@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>canal-cleint</artifactId>
+    <artifactId>canal-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>canal-cleint</name>
     <description>canal-cleint</description>
