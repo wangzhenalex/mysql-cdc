@@ -32,6 +32,9 @@ Flink SQL 已经完整的支持了
 ### Demo2、CDC Streaming ETL
 ![CDCStreamingETL.jpg](images%2FCDCStreamingETL.jpg)
 
+### Demo3、Stream Changes to Kafka
+![StreamingChanges2Kafka.jpg](images%2FStreamingChanges2Kafka.jpg)
+
 ## 概述
 [Overview](https://ververica.github.io/flink-cdc-connectors/master/content/about.html) 
 
